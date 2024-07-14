@@ -1,0 +1,14 @@
+{
+  "name": "homeworknesrine",
+  "version": "1.0.0",
+  "description": "homework 1st session devops training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nesrine",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
